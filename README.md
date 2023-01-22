@@ -1,4 +1,4 @@
-# zelr's portfolio
+# my portfolio
 
 A neat portfolio showing off my work. Made with [Tailwindcss](http://tailwindcss.com) and [Next.js](https://nextjs.org).
 
@@ -26,6 +26,4 @@ pnpm start
 
 Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
 
-## Credits
 
-Do NOT claim to own this portfolio and please leave credits in the footer to this github repository.
